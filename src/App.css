@@ -1,0 +1,15 @@
+:root {
+  --primary-base-color: #2f2f2f;
+  --secondary-base-color: #232323;
+  --text-color: #fff;
+  --button-highlight: -webkit-linear-gradient(90deg, rgb(96, 212, 227),rgb(171, 68, 212));
+}
+* {
+  margin: 0;
+  padding: 0;
+  background-color: var(--primary-base-color);
+  font-style: sans-serif;
+}
+body {
+  padding: 2em;
+}
